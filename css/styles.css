@@ -51,3 +51,13 @@ h1 {
   width: 60%;
   transform: rotate(25deg);
 }
+
+.img-feat {
+  color: #ef8172;
+}
+
+h3 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
